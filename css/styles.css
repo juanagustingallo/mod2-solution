@@ -35,26 +35,25 @@ h1 {
   right: 0;
   width: 180px;
   text-align: center;
-  font-size: 1.5em;
-  color: #fff;
-  background-color: pink;
+  font-size: 1.3em;
   border-left: 2px solid black;
   border-bottom: 2px solid black;
 }
 
 #pink {
   background-color: pink;
+  color: #000;
 }
 
-p span #red {
+#red {
   background-color: red;
+  color: #fff;
 }
 
 #yellow {
   background-color: yellow;
+  color: #000;
 }
-
-
 
 /* END BODY STLYES*/
 
